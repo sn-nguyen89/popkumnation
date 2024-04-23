@@ -7,6 +7,6 @@ body{
 .header{
   width: 98vw;
   height: 90vh;
-  background: url(/images/underConstruction.png) center/cover no-repeat;
+  background: url(./images/underConstruction.png) center/cover no-repeat;
   /* opacity: 0.6; */
 }
