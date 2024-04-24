@@ -2,11 +2,10 @@ body{
   font-family: "Roboto", sans-serif;
   font-weight: 100;
   font-style: normal;
+  background: url(./images/underConstruction.png) center/cover no-repeat;
+  margin-left: 4%;
 }
 
 .header{
-  width: 98vw;
-  height: 90vh;
-  background: url(./images/underConstruction.png) center/cover no-repeat;
-  /* opacity: 0.6; */
+  margin-top: 11%;
 }
